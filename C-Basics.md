@@ -2,7 +2,7 @@
 
 ## 1. Data Types
 
-| Data Type | Size | Description |
+| Data Type | Size | Description | 
 | :--- | :--- | :--- |
 | `int` | 4 bytes | Stores whole numbers (e.g., -5, 42). |
 | `float` | 4 bytes | Stores numbers with decimals up to 6-7 digits. |
