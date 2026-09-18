@@ -60,3 +60,11 @@ Precision specifies the number of decimal places to show for floating-point numb
 * `%.1f` — Displays 1 decimal place (e.g., `3.1`).
 * `%.2f` — Displays 2 decimal places (e.g., `3.14`).
 * `%.4f` — Displays 4 decimal places (e.g., `3.1416`).
+
+## Precision
+
+Precision specifies the number of digits displayed after the decimal point for floating-point output.
+
+For example:
+```c
+printf("%.2f", 3.14159);
